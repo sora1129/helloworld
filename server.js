@@ -1,3 +1,4 @@
+/*
 const http = require('http'); //httpモジュールの読み込み（決まり文句みたいなもの）
 	fs = require('fs');
 const settings = require('./settings');
@@ -21,3 +22,4 @@ const server = http.createServer((req, res) => { // サーバーを作って引�
 server.listen(settings.port, settings.hostname, () => {
   console.log(`Server running at http://${settings.hostname}:${settings.port}/`);
 });
+*/
